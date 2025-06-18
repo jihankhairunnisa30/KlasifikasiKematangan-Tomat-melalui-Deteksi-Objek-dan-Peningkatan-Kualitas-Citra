@@ -1,4 +1,5 @@
 Aplikasi Klasifikasi Kematangan Tomat dan Deteksi Objek Berbasis PyQt5
+
 📌 Tujuan Proyek
 Proyek ini bertujuan untuk membangun sebuah aplikasi GUI berbasis PyQt5 yang mampu melakukan pengolahan citra digital untuk mendukung klasifikasi tingkat kematangan tomat dan mendeteksi objek tomat secara otomatis, baik dari gambar statis maupun kamera secara real-time. Aplikasi ini mencakup fitur lengkap seperti peningkatan kualitas citra, konversi ke beberapa format (RGB, Grayscale, Binary), ekstraksi ciri mean warna, klasifikasi tingkat kematangan, deteksi objek visual tomat, dan ekspor hasil ke file Excel.
 
