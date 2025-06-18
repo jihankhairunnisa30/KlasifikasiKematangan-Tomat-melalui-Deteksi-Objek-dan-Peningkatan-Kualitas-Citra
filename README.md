@@ -32,7 +32,4 @@ DEPENDENCIES
 4. PyQt5
 5. pandas
 
-BY : 152023180 - Ai Resti S
-     152023183 - Rafina Az Zahra
-     152023210 - Jihan Khairunnisa
-     152023219 - Merry Gabriella A
+BY : 152023180 - Ai Resti S, 152023183 - Rafina Az Zahra, 152023210 - Jihan Khairunnisa, 152023219 - Merry Gabriella S
